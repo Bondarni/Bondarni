@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bondarni
-- 👀 I’m interested in too many things.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and French; among other things.
+- 👀 I’m interested in good coffee, art, and too many other things.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, French, and how to focus on just one topic at a time.
 - 💞️ I’m looking to collaborate on coding, music, and ttrpg narratives.
 - 📫 How to reach me ... coming soon!
 
