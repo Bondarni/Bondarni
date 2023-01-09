@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bondarni
-- 👀 I’m interested in coffee, art, and too many other things.
+- 👀 I’m interested in coffee, art, games, classic cars/bikes, and too many other things.
 - 🖖 Big Star Trek Fan 🖖
 - 🌱 I’m currently learning HTML, CSS, JavaScript, French, and how to focus on just one topic at a time.
 - 💞️ I’m looking to collaborate on coding, music, and ttrpg narratives.
