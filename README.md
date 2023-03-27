@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bondarni
 - 👀 I’m interested in coffee, art, games, classic cars/bikes, and too many other things.
 - 🖖 Big Star Trek Fan 🖖
-- 🌱 I’m currently learning HTML, CSS, JavaScript, French, and how to focus on just one topic at a time.
+- 🌱 I’m currently learning React, Express, PostgreSQL, and how to tell my front-end from my back-end.
 - 💞️ I’m looking to collaborate on coding, music, and ttrpg narratives.
 - 📫 How to reach me ... coming soon!
 
