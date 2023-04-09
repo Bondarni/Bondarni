@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Brandon!
-- 👀 I’m interested in coffee, art, games, classic cars/bikes, and too many other things.
-- 🖖 Big Star Trek Fan 🖖
-- 🌱 I’m currently learning React, Express, PostgreSQL, and how to tell my front-end from my back-end.
+- 👀 I’m interested in coding, coffee, art, games, classic cars/bikes, and too many other things.
+- 🖖 Star Trek Fan
+- 🌱 Developing my skills with MERN app building.  Check out my PLANTIFUL repo to see how I put it all together!
 - 💞️ I’m looking to collaborate on coding, music, and ttrpg narratives.
-- 📫 How to reach me ... coming soon!
+- 🤝 Let's connect on [LinkedIn!](https://www.linkedin.com/in/brandonpartrick/)
 
 <!---
 Bondarni/Bondarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
